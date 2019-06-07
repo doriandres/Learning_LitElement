@@ -2,9 +2,7 @@ import { LitElement, html } from "lit-element";
 
 class AppShell extends LitElement {
   render() {
-    return html`
-      <p>Hello Gary! From my-element</p>
-    `;
+    return html``;
   }
 }
 
